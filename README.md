@@ -16,15 +16,21 @@ Features
 • Subdomain enumeration using DNS
 • Hidden directory brute forcing
 • Automated HTML security dashboard report
+
+
 🛠 Technologies Used
 Python
 Requests
 BeautifulSoup
 DNSPython
 HTML/CSS
+
+
 ▶ Usage
 pip install requests beautifulsoup4 dnspython
 python web_analyzer.py
+
+
 📊 Output
 
 The tool generates an HTML security report containing:
@@ -35,9 +41,13 @@ Technology fingerprinting
 Subdomains discovered
 Hidden directories
 Emails and contacts found
+
+
 ⚠ Disclaimer
 This tool is developed for educational and ethical security testing purposes only.
 Do not use it against websites without proper authorization.
+
+
 ⭐ Bonus (Recommended for GitHub)
 
 Add topics/tags in GitHub repo:
