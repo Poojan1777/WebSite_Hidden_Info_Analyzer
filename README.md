@@ -48,15 +48,3 @@ This tool is developed for educational and ethical security testing purposes onl
 Do not use it against websites without proper authorization.
 
 
-⭐ Bonus (Recommended for GitHub)
-
-Add topics/tags in GitHub repo:
-
-cybersecurity
-python
-osint
-web-security
-security-tools
-devsecops
-reconnaissance
-bug-bounty
