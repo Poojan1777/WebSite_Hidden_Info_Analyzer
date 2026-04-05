@@ -8,14 +8,23 @@ This project is designed for learning purposes and demonstrates practical concep
 
 Features
 • Email extraction from website pages
+
 • Contact/phone number discovery
+
 • Website metadata analysis
+
 • Security header misconfiguration detection
+
 • HTTP header information leak detection
+
 • Technology detection (WordPress, React, PHP, Apache, Nginx)
+
 • Subdomain enumeration using DNS
+
 • Hidden directory brute forcing
+
 • Automated HTML security dashboard report
+
 
 
 🛠 Technologies Used
