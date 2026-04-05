@@ -7,6 +7,7 @@ The tool performs multiple automated checks including email extraction, contact 
 This project is designed for learning purposes and demonstrates practical concepts used in cybersecurity reconnaissance and web security analysis.
 
 Features
+
 • Email extraction from website pages
 
 • Contact/phone number discovery
@@ -29,9 +30,13 @@ Features
 
 🛠 Technologies Used
 Python
+
 Requests
+
 BeautifulSoup
+
 DNSPython
+
 HTML/CSS
 
 
